@@ -1,0 +1,7 @@
+{
+  "name": "Sari-Sari Smart POS",
+  "description": "A lightweight, offline-ready Point of Sale system specifically designed for Philippine Sari-Sari stores with AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
